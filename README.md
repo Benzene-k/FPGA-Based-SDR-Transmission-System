@@ -7,4 +7,4 @@ If you want to reproduce the project, you can refer to the README(EN).md in the 
 本作品基于两组FPGA与上位机构建SDR无线通信系统，实现短距离信息的无线传输。
 发送端通过FPGA完成数据处理、编码与数字调制，并经射频链路和天线发送；接收端利用FPGA完成信号采集、数字解调与数据恢复，最终上传至上位机显示。系统采用模块化设计，可灵活调整调制方式、载波及通信参数，并为信道编码和智能解调算法的进一步研究提供实验平台。
 具体工程（包含FPGA和上位机部分）在master分支。
-若要复现工程可以参考master分支里的README(CN).md
+若要复现工程可以参考master分支里的README(CN).md.
