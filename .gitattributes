@@ -1,0 +1,7 @@
+*.v linguist-detectable=true
+*.vhd linguist-detectable=true
+*.sv linguist-detectable=true
+
+*.py linguist-detectable=true
+
+*.md linguist-detectable=false
