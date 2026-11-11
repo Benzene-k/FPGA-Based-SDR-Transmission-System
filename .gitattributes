@@ -3,7 +3,7 @@
 *.sv linguist-detectable=true
 *.vhd linguist-detectable=true
 
-*.py linguist-detectable=true
+*.py linguist-detectable=false
 
 *.qml linguist-detectable=false
 *.cpp linguist-detectable=false
